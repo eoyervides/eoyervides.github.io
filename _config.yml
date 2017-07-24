@@ -9,7 +9,7 @@
 title: Salsas el primito.
 email: ventas_1@elprimito.com
 description: > # this means to ignore newlines until "baseurl:"
-Alimentos Cantú, SA de CV, es una empresa 100% Mexicana, establecida en Noviembre 22 de 1997, en la ciudad de San Nicolás de los Garza, Nuevo León. Durante más de 20 años, la pasión y entrega por la riqueza culinaria del mundo, ha Impulsado a Nuestro fundador y amigo a elaborar, mediante recetas únicas, atrevidas  y diferenciadas,  prestigiadas salsas picantes y súper picantes con los más altos estándares de calidad e higiene a nivel internacional.
+ Alimentos Cantú, SA de CV, es una empresa 100% Mexicana, establecida en Noviembre 22 de 1997, en la ciudad de San Nicolás de los Garza, Nuevo León. Durante más de 20 años, la pasión y entrega por la riqueza culinaria del mundo, ha Impulsado a Nuestro fundador y amigo a elaborar, mediante recetas únicas, atrevidas  y diferenciadas,  prestigiadas salsas picantes y súper picantes con los más altos estándares de calidad e higiene a nivel internacional.
 Nuestra Marca ElPrimito, adopta el nombre de una serie de personajes característicos de la región de San Nicolás de los Garza, N.L. México. Esta zona fue la cuna de toda la raza de primitos, predominante a todo lo largo del estado de Nuevo León.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://elprimito.com" # the base hostname & protocol for your site
